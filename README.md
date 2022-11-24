@@ -1,5 +1,5 @@
 # xxxx
-<h1>A Copa do Mundo </h1>
+<h1><i>A Copa do Mundo </i></h1>
 <p>A Copa do Mundo, a maior competição de futebol que existe atualmente, é organizada pela Fifa a cada quatro anos e tem o Brasil como o grande campeão, com cinco títulos.</p>
 <p>A Copa do Mundo é uma competição internacional organizada pela Federação Internacional de Futebol a cada quatro anos. A Copa passou a ser realizada em 1930, com a primeira competição sediada pelo Uruguai. A escolha da nação-sede é determinada em eleições feitas pela própria Fifa.</p>
 <p>A Copa do Mundo é um dos maiores eventos esportivos do planeta e, a cada quadriênio, bilhões de pessoas assistem aos jogos realizados. As edições de 2010 (que ocorreu na África do Sul) e 2014 (no Brasil) contaram com cerca de 3,2 bilhões de espectadores, segundo dados compartilhados pela Fifa. A final da Copa do Mundo de 2014 registrou, sozinha, aproximadamente 1 bilhão de espectadores.</p>
@@ -14,7 +14,26 @@
 <p>América do Norte: EUA e México.</p>
 <p>América do Sul: Argentina, Bolívia, Brasil, Chile, Paraguai, Peru e Uruguai.</p>
 <p>Nessa edição, o Uruguai confirmou seu favoritismo e venceu a competição após bater os argentinos na final pelo placar de 4x2. A participação brasileira foi modesta, sobretudo porque havia um racha entre paulistas e cariocas – assim, quase todos os convocados paulistas boicotaram a Copa do Mundo. O Brasil acabou eliminado na primeira fase após dois jogos (derrota contra a Iugoslávia por 2x1 e vitória contra a Bolívia por 4x0).</p>
-
+<h2><i>Resumo de todas as Copas</i></h2>
+<table>
+  <tr>
+    <th><i>Ano</i><th>
+    <th><i>País - sede</i></th>
+    <th><i>Campeão</i></th>
+    <th><i>Vice</i></th>
+    <th><i>Colocação do Brasil</i></th>
+  </tr>
+  <tr>
+    <td>1930</td>
+    <td>Uruguai</td>
+    <td>Uruguai</td>
+    <td>Argentina</td>
+    <td>6ºlugar</td>
+  </tr>
+      <tr>
+        
+      </tr>
+  </table>
 
 
 
