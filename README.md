@@ -14,11 +14,20 @@
 <p>América do Norte: EUA e México.</p>
 <p>América do Sul: Argentina, Bolívia, Brasil, Chile, Paraguai, Peru e Uruguai.</p>
 <p>Nessa edição, o Uruguai confirmou seu favoritismo e venceu a competição após bater os argentinos na final pelo placar de 4x2. A participação brasileira foi modesta, sobretudo porque havia um racha entre paulistas e cariocas – assim, quase todos os convocados paulistas boicotaram a Copa do Mundo. O Brasil acabou eliminado na primeira fase após dois jogos (derrota contra a Iugoslávia por 2x1 e vitória contra a Bolívia por 4x0).</p>
+   <h2><i>Grupos da Copa do Mundo 2022:</i></h2>
+   <p>Grupo A: Qatar, Equador, Senegal, Holanda Grupo.</p>
+ <p>B: Inglaterra, Irã, EUA, País de Gales Grupo.</p>
+  <p>C: Argentina, Arábia Saudita, México, Polônia Grupo.</p>
+        <p>D: França, Austrália, Dinamarca, Tunísia Grupo.</p>
+   <p>E: Espanha, Costa Rica, Alemanha, Japão Grupo.</p>
+    <p>F: Bélgica, Canadá, Marrocos, Croácia Grupo.</p>
+    <p>G: Brasil, Sérvia, Suíça, Camarões Grupo.</p> 
+    <p>H: Portugal, Gana, Uruguai, Coreia do Sul.</p>
 <h2><i>Resumo de todas as Copas</i></h2>
 <table>
   <tr>
     <th><i>Ano</i><th>
-    <th><i>País - sede</i></th>
+    <th><i>País-sede</i></th>
     <th><i>Campeão</i></th>
     <th><i>Vice</i></th>
     <th><i>Colocação do Brasil</i></th>
@@ -31,10 +40,147 @@
     <td>6ºlugar</td>
   </tr>
       <tr>
-        
+        <td>1934</td>
+        <td>Italía</td>
+        <td>Italía</td>
+        <td>Checoslováquia</td>
+        <td>14ºlugar</td>
       </tr>
+  <tr>
+    <td>1938</td>
+    <td>França</td>
+    <td>Italía</td>
+    <td>Hungria</td>
+    <td>3ºlugar</td>
+  </tr>
+  <tr>
+    <td>1950</td>
+    <td>Brasil</td>
+    <td>Uruguai</td>
+    <td>Brasil</td>
+    <td>Vice-campião</td>
+  </tr>
+  <tr>
+    <td>1954</td>
+    <td>Suíça</td>
+    <td>Alemanha- ocidental</td>
+    <td>Hungria</td>
+    <td>5ºlugar</td>
+  </tr>
+  <tr>
+    <td>1958</td>
+    <td>Suécia</td>
+    <td><u>Brasil</u></td>
+    <td>Suécia</td>
+    <td><u>Campeão</u></td>
+  </tr>
+  <tr>
+    <td>1962</td>
+    <td>Chile</td>
+    <td><u>Brasil</u></td>
+    <td>Chelosváquia</td>
+    <td><u>Campeão</u></td>
+  </tr>
+  <tr>
+    <td>1966</td>
+    <td>Inglaterra</td>
+    <td>Inglaterra</td>
+    <td>Alemanha-ocidental</td>
+    <td>11ºLugar</td>
+  </tr>
+  <tr>
+    <td>1970</td>
+    <td>México</td>
+    <td><u>Brasil</u></td>
+    <td>Italía</td>
+    <td><u>Campeão</u></td>
+  </tr>
+  <tr>
+    <td>1974</td>
+    <td>Alemanha-ocidental</td>
+    <td>Alemanha-ocidental</td>
+    <td>Holanda</td>
+    <td>4ºlugar</td>
+  </tr>
+  <tr>
+    <td>1978</td>
+    <td>Argentina</td>
+    <td>Argentina</td>
+    <td>Holanda</td>
+    <td>3ºlugar</td>
+  </tr>
+  <tr>
+    <td>1982</td>
+    <td>Espanha</td>
+    <td>Italía</td>
+    <td>Alemanha-ocidental</td>
+    <td>5ºlugar</td>
+  </tr>
+  <tr>
+    <td>1986</td>
+    <td>México</td>
+    <td>Argentina</td>
+    <td>Alemanha-ocidental</td>
+    <td>5ºlugar</td>
+  </tr>
+  <tr>
+    <td>1990</td>
+    <td>Italía</td>
+    <td>Alemanha-ocidental</td>
+    <td>Argentina</td>
+    <td>9ºlugar</td>
+  </tr>
+ <tr>
+   <td>1994</td>
+   <td>EUA</td>
+   <td><u>Brasil</u></td>
+   <td>Italía</td>
+   <td><u>Campeão</u></td>
+  </tr>
+  <tr>
+    <td>1998</td>
+    <td>França</td>
+    <td><u>Brasil</u></td>
+    <td>Alemanha</td>
+    <td><u>Campeão</u></td>
+  </tr>
+  <tr>
+    <td>2002</td>
+    <td>Japão e Coreia do Sul</td>
+    <td><u>Brasil</u></td>
+    <td>Alemanha</td>
+    <td><u>Campeão</u></td>
+  </tr>
+  <tr>
+    <td>2006</td>
+    <td>Alemanha</td>
+    <tdItalía</td>
+    <td>França</td>
+    <td>5ºlugar</td>
+  </tr>
+  <tr>
+    <td2010</td>
+    <td>Afríca do Sul</td>
+    <td>Espanha</td>
+    <td>Holanda</td>
+    <td>6ºlugar</td>
+    
+  </tr>
+  <tr>
+    <td>L2014</td>
+    <td>Brasil</td>
+    <td>Alemanha</td>
+    <td>Argentina</td>
+    <td>4ºlugar</td
+  </tr>
+      <tr>
+        <td>Rússia</td>
+        <td>França</td>
+        <td>Croácia</td>
+        <td>6ºlugar</td>
   </table>
 
+  
 
 
 
